@@ -1,4 +1,4 @@
-Quick Start
+Test2
 ===========
 
 meta-emlinux can be built on a Debian or Ubuntu systems.
